@@ -1,4 +1,12 @@
-package edu.ccsf.CS211E.homework01;
+/**
+ * @author Charles Tang
+ * @course CS211E
+ * @professor Anita Rathi
+ * @semeter Fall
+ * @year 2024
+ */
+
+package edu.ccsf.CS211E.practice01;
 
 public class Product {
     int id;

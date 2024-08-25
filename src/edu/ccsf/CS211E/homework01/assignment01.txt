@@ -1,0 +1,11 @@
+Assignment 1 - Streams
+Given a string and a character, the task is to make a function which counts the occurrence of the given character in the string using Streams.
+
+Examples
+Input: str = "seedsandseeds", c = 'e'
+Output: 4
+'e' appears four times in str.
+
+Input: str = "abccdefgaa", c = 'a'
+Output: 3
+'a' appears three times in str.
