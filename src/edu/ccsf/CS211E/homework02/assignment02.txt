@@ -1,0 +1,24 @@
+Assignment 2 - Input/Output
+
+Description
+Assignment 2 - Reading and writing to text file
+Create a text file, file1.txt with sample text of three to four sentences.
+
+Write a Java program that reads the text file , file1.txt and performs the following two operations:
+
+Calculate the number of words in the text file and displays the same. Use appropriate prompts in your output.
+Reverses each word in the file and copies the modified text in another text file, file2.txt
+Displays the contents of file2.txt
+
+Sample text in file.txt:
+
+I am studying in California.
+
+
+Sample output
+
+Number of words = 5
+
+Modified text in file2.txt:
+
+I ma gniyduts ni ainrofilaC.
