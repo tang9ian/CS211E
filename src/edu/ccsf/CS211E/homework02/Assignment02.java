@@ -1,3 +1,11 @@
+/**
+ * @author Charles Tang
+ * @course CS211E
+ * @professor Anita Rathi
+ * @semeter Fall
+ * @year 2024
+ */
+
 package edu.ccsf.CS211E.homework02;
 
 import java.io.*;
@@ -37,7 +45,7 @@ public class Assignment02 {
             }
 
             // Display the word count
-            System.out.println("The number of words in the file: " + wordCount);
+            System.out.println("Number of words = " + wordCount);
 
             // Write the modified content to the output file
             try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputFileName))) {
